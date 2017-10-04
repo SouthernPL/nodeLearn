@@ -1,0 +1,26 @@
+{
+  "name": "movie",
+  "authors": [
+    "Lyd9607 <18202589607@163.com>"
+  ],
+  "description": "movie test with node express",
+  "main": "",
+  "keywords": [
+    "movie",
+    "node"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
